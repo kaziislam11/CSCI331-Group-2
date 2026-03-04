@@ -1,5 +1,3 @@
-## Repository Structure
-
 ### Group Homework
 All pair programming group assignments completed with PPG_2.
 
