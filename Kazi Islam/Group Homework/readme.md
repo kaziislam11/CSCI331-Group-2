@@ -1,2 +1,2 @@
-acm.org membership:
-medium.com membership:
+- acm.org membership:
+- medium.com membership:
